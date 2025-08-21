@@ -17,8 +17,8 @@ Who Am I?
 
 # 📚 Meus Repositórios de Estudo
 Aqui está minha jornada de aprendizado documentada:
-- [Hello World](https://github.com/andreluiz/helloWorld) - Meu primeiro repo!
-- [Learning Path](https://github.com/andreluiz/learningPath) - Onde guardo todos os meus exercícios.
+- [Hello World](https://github.com/LegendaryTh/helloWorld.git) - Meu primeiro repo!
+- [Learning Path](https://github.com/LegendaryTh/LearningPath.git) - Onde guardo todos os meus exercícios.
 
 # 📫 Como me encontrar
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andre-victor-luiz-dev/)
